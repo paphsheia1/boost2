@@ -1,0 +1,18 @@
+[
+   {
+        "image" : "http://cdn.crime-mobile.net/story/story_two.jpg",
+        "title" : "NEW версия лаунчера",
+	"text1" : "Обновление",
+	"text2" : "Карты",
+	"url" : "https://vk.com/crimemobs",
+	"demonynagodya": true
+   },
+   {
+        "image" : "http://cdn.crime-mobile.net/story/story_first.png",
+        "title" : "Denver Russia Test",
+	"text1" : "Обновление",
+	"text2" : "Лаунчера",
+	"url" : "https://vk.com/crimemobs",
+	"demonynagodya": false
+   }
+]
